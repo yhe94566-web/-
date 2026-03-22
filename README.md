@@ -2,7 +2,6 @@
 
 本项目是国际课程《生物统计学：应用于流行病学与生物医药的数据科学》的结课项目。基于 Kaggle 经典竞赛“泰坦尼克号：机器学习从灾难中学习”，通过数据清洗、特征工程与多种机器学习模型的对比，预测乘客的生存情况。项目最终获得 **89 分（A）**。
 
-## 📁 项目结构
 
 ## 🎯 项目目标
 
@@ -78,9 +77,3 @@
 - Pandas / NumPy
 - Matplotlib / Seaborn
 - Scikit-learn
-
-## 🚀 运行方法
-
-1. 确保已安装所需库：
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn
